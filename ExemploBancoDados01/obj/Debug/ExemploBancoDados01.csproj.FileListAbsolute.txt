@@ -1,0 +1,9 @@
+C:\Users\fsens\Documents\GitHub\ExemploBancoDados01\ExemploBancoDados01\bin\Debug\ExemploBancoDados01.exe.config
+C:\Users\fsens\Documents\GitHub\ExemploBancoDados01\ExemploBancoDados01\bin\Debug\ExemploBancoDados01.exe
+C:\Users\fsens\Documents\GitHub\ExemploBancoDados01\ExemploBancoDados01\bin\Debug\ExemploBancoDados01.pdb
+C:\Users\fsens\Documents\GitHub\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.csprojResolveAssemblyReference.cache
+C:\Users\fsens\Documents\GitHub\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.Form1.resources
+C:\Users\fsens\Documents\GitHub\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.Properties.Resources.resources
+C:\Users\fsens\Documents\GitHub\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.csproj.GenerateResource.Cache
+C:\Users\fsens\Documents\GitHub\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.exe
+C:\Users\fsens\Documents\GitHub\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.pdb
